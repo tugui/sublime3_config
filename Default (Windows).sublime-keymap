@@ -1,0 +1,5 @@
+[
+	{ "keys": ["ctrl+shift+a"], "command": "alignment" },
+	{ "keys": ["shift+tab"], "command": "reindent" , "args":{"single_line": false} },
+	{ "keys": ["ctrl+shift+`"], "command": "show_panel", "args": {"panel": "console", "toggle": true} }
+]
