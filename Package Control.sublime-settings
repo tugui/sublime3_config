@@ -7,6 +7,7 @@
 	[
 		"AdvancedNewFile",
 		"Alignment",
+		"All Autocomplete",
 		"ApplySyntax",
 		"AutoFileName",
 		"Bracketeer",
@@ -28,7 +29,7 @@
 		"Jade",
 		"JavaScript & NodeJS Snippets",
 		"JsFormat",
-		"Markdown Preview",
+		"MarkdownEditing",
 		"Material Color Scheme",
 		"Material Theme",
 		"Material Theme - Appbar",
@@ -51,6 +52,7 @@
 		"SublimeREPL",
 		"SyncedSidebarBg",
 		"SyntaxHighlightTools",
+		"Terminal",
 		"Theme - Glacier",
 		"Themr",
 		"Web Inspector"
