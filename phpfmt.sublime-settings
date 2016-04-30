@@ -4,5 +4,6 @@
 	"psr1": true,
 	"psr1_naming": true,
 	"psr2": true,
-	"version": 1
+	"version": 1,
+    "autocompelte": true
 }
