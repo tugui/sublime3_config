@@ -1,0 +1,8 @@
+{
+	"format_on_save": true,
+	"php_bin": "/usr/local/Cellar/php70/7.0.5/bin/php",
+	"psr1": true,
+	"psr1_naming": true,
+	"psr2": true,
+	"version": 1
+}

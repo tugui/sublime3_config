@@ -41,6 +41,8 @@
 		"NodeRequirer",
 		"Package Control",
 		"Phpcs",
+		"phpfmt",
+		"PHPIntel",
 		"Placeholders",
 		"Python 3",
 		"Sass",
