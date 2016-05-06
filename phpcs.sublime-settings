@@ -1,0 +1,5 @@
+{
+    "php_cs_fixer_on_save": true,
+    "php_cs_fixer_show_quick_panel": true,
+    "php_cs_fixer_executable_path" : "/usr/bin/php"
+}
