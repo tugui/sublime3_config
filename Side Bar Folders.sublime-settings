@@ -2,30 +2,6 @@
 	"folders":
 	[
 		{
-			"path": "D:\\wamp\\www\\test\\zhiluren"
-		},
-		{
-			"path": "D:\\wamp\\www\\test\\wechat\\sample\\php"
-		},
-		{
-			"path": "D:\\wamp\\www\\test\\ticket"
-		},
-		{
-			"path": "D:\\wamp\\www\\test\\smarty"
-		},
-		{
-			"path": "D:\\wamp\\www\\test\\match"
-		},
-		{
-			"path": "D:\\wamp\\www\\scutyth\\background"
-		},
-		{
-			"path": "D:\\wamp\\www\\scutyth"
-		},
-		{
-			"path": "C:\\Users\\Administrator\\Downloads\\sample"
-		},
-		{
 			"path": "/www"
 		},
 		{
@@ -81,6 +57,9 @@
 		},
 		{
 			"path": "/Users/tugui/Downloads/2"
+		},
+		{
+			"path": "/Users/tugui/Downloads/14电信-叶升-百步梯春招任务考核-后台-人员管理系统/www/Thinkphp"
 		},
 		{
 			"path": "/Users/tugui/Desktop/tcpdf_min"
