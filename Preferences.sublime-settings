@@ -29,7 +29,7 @@
 		"gray_antialias",
 		"subpixel_antialias"
 	],
-	"font_size": 18,
+	"font_size": 15,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
