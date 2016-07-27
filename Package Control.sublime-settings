@@ -52,6 +52,7 @@
 		"SublimeCodeIntel",
 		"SublimeERB",
 		"SublimeLinter",
+		"SublimeLinter-php",
 		"SublimeLinter-phpcs",
 		"SublimeREPL",
 		"SyncedSidebarBg",

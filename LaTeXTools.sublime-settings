@@ -66,7 +66,7 @@
 	// can also be set on a per-project basis
 	"use_biblatex": false,
 
-	// the mapping from the locales to the dictionaries for the 
+	// the mapping from the locales to the dictionaries for the
 	// `%!TEX spellcheck` directive, where the locales must be all lowercase
 	// and separated by a minus sign (-). The dictionaries must be valid path
 	// and compatible with the ST integrated spellcheck
@@ -254,8 +254,8 @@
 	//					latexmk (TeXLive) / texify (MiKTeX)
 	//
 	// "script"			external script: invokes the set of commands
-	//					specified in the "script_commands" setting 
-	//					in the platform-specific part of the 
+	//					specified in the "script_commands" setting
+	//					in the platform-specific part of the
 	//					"builder_settings"
 	//
 	// custom name		you can also use third-party build engines;
@@ -305,6 +305,8 @@
 		}
 	},
 
+
+
 // ------------------------------------------------------------------
 // Viewer settings
 // ------------------------------------------------------------------
@@ -312,7 +314,7 @@
 	// Specifies which viewer to use
 	// Possible values:
 	//
-	// "default" or ""	the default viewer for your platform, which 
+	// "default" or ""	the default viewer for your platform, which
 	//					is sumatra on Windows, skim on OS X and
 	//					evince on linux
 	//
@@ -368,13 +370,13 @@
 // Bibliographic references
 // ------------------------------------------------------------------
 	// OPTION: "bibliography"
-	// Either a single  bibliography plugin to use or a list of plugins 
+	// Either a single  bibliography plugin to use or a list of plugins
 	// which will be executed in order, stopping after the first result
 	// found
 	//
 	// Possible values:
 	//
-	// "traditional" 		the default, regex-based bibliography 
+	// "traditional" 		the default, regex-based bibliography
 	//						parsing
 	//
 	// "new"				a newer parser which supports UTF-8 and

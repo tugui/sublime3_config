@@ -7,11 +7,16 @@
         "gutter_theme_excludes": [],
         "lint_mode": "save only",
         "linters": {
+            "php": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
             "phpcs": {
                 "@disable": false,
                 "args": [],
                 "excludes": [],
-                "standard": "PSR2"
+                "standard": "PSR4"
             }
         },
         "mark_style": "outline",
