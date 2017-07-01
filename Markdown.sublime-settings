@@ -1,3 +1,10 @@
 {
-    "color_scheme": "Packages/Colorcoder/glacier (Colorcoded).tmTheme",
+	"color_scheme": "Packages/Colorcoder/glacier (Colorcoded).tmTheme",
+	"extensions":
+	[
+		"md",
+		"txt"
+	],
+    "draw_centered": false,
+    "mde.list_indent_auto_switch_bullet": false,
 }

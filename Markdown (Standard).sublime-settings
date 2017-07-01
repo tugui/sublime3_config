@@ -1,3 +1,8 @@
 {
-    "color_scheme": "Packages/MarkdownEditing/MarkdownEditor-Dark.tmTheme",
+	"color_scheme": "Packages/MarkdownEditing/MarkdownEditor-Dark.tmTheme",
+	"extensions":
+	[
+		"mdown"
+	],
+    "mde.list_indent_auto_switch_bullet": false,
 }

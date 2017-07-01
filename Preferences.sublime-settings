@@ -5,7 +5,7 @@
 	"auto_match_enabled": false,
 	"bold_folder_labels": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/Colorcoder/glacier (Colorcoded).tmTheme",
+	"color_scheme": "Packages/Colorcoder/glacier (Colorcoded) (Colorcoded).tmTheme",
 	"detect_indentation": true,
 	"draw_minimap_border": true,
 	"draw_white_space": "selection",
@@ -69,7 +69,7 @@
 	"material_theme_small_tab": true,
 	"material_theme_tabs_autowidth": true,
 	"material_theme_tabs_separator": true,
-	"original_color_scheme": "Packages/Material Theme/schemes/OLD/Material-Theme.tmTheme",
+	"original_color_scheme": "Packages/Colorcoder/glacier (Colorcoded).tmTheme",
 	"overlay_scroll_bars": "enabled",
 	"rulers":
 	[

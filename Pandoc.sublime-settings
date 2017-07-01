@@ -1,0 +1,12 @@
+{
+    "user": {
+        "pandoc-path": "/usr/local/bin/pandoc",
+        "transformations": {
+            "PDF": {
+                "pandoc-arguments": [
+                  "-t", "pdf", "--latex-engine=/Library/TeX/texbin/xelatex"
+                ]
+          },
+        }
+    }
+}

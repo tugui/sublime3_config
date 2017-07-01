@@ -1,0 +1,10 @@
+{
+    "show_in_minimap": true,
+    "bracket_styles": {
+        "default": {
+            "icon": "dot",
+            "color": "entity.name.class",
+            "style": "outline",
+        },
+    },
+}
