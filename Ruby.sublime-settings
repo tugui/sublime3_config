@@ -2,11 +2,11 @@
 	"extensions":
 	[
 		"jbuilder",
-		"podspec",
-		"rb",
-		"thor",
 		"rake",
+		"rb",
 		"rabl",
-		"simplecov"
+		"simplecov",
+		"thor",
+		"podspec"
 	]
 }
